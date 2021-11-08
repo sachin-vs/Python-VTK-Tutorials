@@ -1,1 +1,1 @@
-#Tutorial for implementing VTK using python
+Simple implementation of a cone using Python VTK
